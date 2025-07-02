@@ -18,8 +18,8 @@ This repository provides two Python scripts for age prediction as described by H
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/miAge.git
-   cd miAge
+   git clone https://github.com/icaria-inc/miAge_public.git
+   cd miAge_public
    ```
 
 2. **Create a virtual environment** (recommended)
@@ -30,12 +30,6 @@ This repository provides two Python scripts for age prediction as described by H
    ```
 
 3. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   If you don’t have a `requirements.txt`, install directly:
 
    ```bash
    pip install pandas numpy scikit-learn scipy matplotlib lightgbm optuna joblib
